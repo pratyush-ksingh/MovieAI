@@ -4,7 +4,8 @@
 </div>
 
 
-<img width="959" alt="movieai" src="https://github.com/pratyush-ksingh/MovieAI/assets/82104084/e4b7b089-4e8a-4c9a-9fdb-39c5b90d07a9">
+<img width="952" alt="ai1" src="https://github.com/pratyush-ksingh/MovieAI/assets/82104084/6ded0373-a47a-43dc-b346-5525d763dead">
+
 
 
 

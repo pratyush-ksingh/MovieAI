@@ -12,7 +12,7 @@
 # Features ✨
 
 - Search for movies (text, voice)
-- View upcoming / trending movies
+- View upcoming or trending movies
 - View movies from a category
 - View movie information
 
